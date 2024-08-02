@@ -1,2 +1,2 @@
-database/AllPrintings.db
-src/model/database.py
+database/*
+src/model/_pycache__
